@@ -1,0 +1,30 @@
+11:59:56.756 [Thread-0] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+11:59:57.250 [Thread-0] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-group-server exists
+11:59:57.253 [Thread-0] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+11:59:57.572 [Thread-0] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-group-server exists with id 7c0b913df8f9401495f8c2c5920ca9b9
+11:59:58.717 [Thread-0] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+11:59:58.951 [Thread-0] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-group-server exists with id 7c0b913df8f9401495f8c2c5920ca9b9
+11:59:59.898 [Thread-0] DEBUG openstacklib.Quantum - [projectList] completed:
+Project Name: p-group-server
+Project ID: 7c0b913df8f9401495f8c2c5920ca9b9
+Domain ID: 30897c24fe6948c68139bc4fc41a9022
+Expires: 2019-02-01T00:00:00Z
+Centro de Custo: CC8430
+
+---------- USERS ----------
+ist167033
+ist175611
+ist155371
+---------------------------
+
+---------- API KEYS ----------
+User: 7GjMudsV0kW3gFnaN2fRBgyyM85G6W5kGvrveNGs
+Password: 9gti8B5kxKjumVplC3KTuJwDEVR4q8wzv7WWXHUF
+------------------------------
+
+---------- RegionA ----------
+CORES: 10
+RAM: 16384 MB
+DISK: 500 GB
+-----------------------------
+

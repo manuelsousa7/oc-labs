@@ -1,0 +1,144 @@
+12:26:59.564 [Thread-2] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:26:59.564 [Thread-10] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:26:59.564 [Thread-0] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:26:59.564 [Thread-4] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:26:59.564 [Thread-6] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:26:59.564 [Thread-8] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:26:59.924 [Thread-2] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:26:59.924 [Thread-10] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:26:59.996 [Thread-0] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:00.014 [Thread-4] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:00.025 [Thread-8] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:00.054 [Thread-6] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:00.148 [Thread-2] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:00.151 [Thread-10] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:00.253 [Thread-4] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:00.263 [Thread-0] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:00.414 [Thread-8] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:01.409 [Thread-6] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:01.469 [Thread-2] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:02.500 [Thread-8] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:02.500 [Thread-10] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:02.500 [Thread-0] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:02.500 [Thread-4] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:03.494 [Thread-6] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:04.747 [Thread-12] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:04.747 [Thread-14] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:04.748 [Thread-16] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:04.749 [Thread-18] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:04.749 [Thread-20] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:04.750 [Thread-22] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:05.053 [Thread-16] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:05.053 [Thread-14] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:05.060 [Thread-20] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:05.115 [Thread-18] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:05.138 [Thread-22] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:05.180 [Thread-12] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:05.341 [Thread-14] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:05.349 [Thread-16] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:05.483 [Thread-18] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:05.600 [Thread-22] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:05.704 [Thread-20] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:05.944 [Thread-12] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:06.076 [Thread-22] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:06.214 [Thread-12] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:06.233 [Thread-16] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:06.270 [Thread-14] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:06.299 [Thread-20] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:06.336 [Thread-18] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:06.877 [Thread-24] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:06.880 [Thread-26] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:06.882 [Thread-28] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:06.884 [Thread-30] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:06.887 [Thread-32] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:06.888 [Thread-34] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:07.167 [Thread-30] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:07.185 [Thread-26] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:07.202 [Thread-28] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:07.283 [Thread-32] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:07.293 [Thread-34] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:07.294 [Thread-24] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:07.419 [Thread-28] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:07.428 [Thread-26] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:07.428 [Thread-30] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:07.525 [Thread-24] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:07.553 [Thread-32] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:07.577 [Thread-34] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:07.639 [Thread-28] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:07.697 [Thread-30] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:07.705 [Thread-26] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:07.819 [Thread-24] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:07.840 [Thread-32] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:07.851 [Thread-34] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:09.777 [Thread-36] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:09.778 [Thread-38] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:09.779 [Thread-40] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:09.779 [Thread-42] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:09.780 [Thread-44] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:09.781 [Thread-46] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:10.056 [Thread-36] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:10.082 [Thread-38] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:10.136 [Thread-42] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:10.189 [Thread-40] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:10.336 [Thread-36] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:10.349 [Thread-44] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:10.469 [Thread-42] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:10.523 [Thread-40] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:10.523 [Thread-46] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:10.609 [Thread-44] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:10.634 [Thread-38] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:10.669 [Thread-36] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:10.706 [Thread-42] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:10.743 [Thread-46] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:10.763 [Thread-40] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:10.907 [Thread-44] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:11.058 [Thread-38] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:11.085 [Thread-46] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:12.527 [Thread-48] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:12.528 [Thread-50] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:12.528 [Thread-52] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:12.529 [Thread-54] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:12.530 [Thread-56] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:12.530 [Thread-58] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:12.794 [Thread-52] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:12.820 [Thread-54] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:12.908 [Thread-48] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:12.931 [Thread-50] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:13.083 [Thread-56] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:13.179 [Thread-58] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:13.220 [Thread-54] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:13.338 [Thread-50] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:13.347 [Thread-52] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:13.356 [Thread-56] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:13.384 [Thread-48] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:13.398 [Thread-58] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:13.502 [Thread-54] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:13.590 [Thread-50] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:13.611 [Thread-52] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:13.623 [Thread-56] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:13.652 [Thread-48] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:13.661 [Thread-58] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:14.321 [Thread-60] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:14.322 [Thread-62] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:14.323 [Thread-64] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:14.323 [Thread-66] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:14.324 [Thread-68] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:14.324 [Thread-70] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] init
+12:27:14.609 [Thread-68] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:14.619 [Thread-60] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:14.644 [Thread-66] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:14.714 [Thread-70] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:14.714 [Thread-62] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:14.791 [Thread-64] DEBUG openstacklib.Abstrato - [abstractExists - projectExists] project p-spock exists
+12:27:14.885 [Thread-68] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:14.958 [Thread-66] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:14.993 [Thread-60] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:15.036 [Thread-62] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:15.086 [Thread-70] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:15.110 [Thread-64] DEBUG openstacklib.Abstrato - [getID - getProjectID] init
+12:27:15.407 [Thread-60] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:15.413 [Thread-66] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:15.423 [Thread-62] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:15.432 [Thread-68] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:15.467 [Thread-70] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250
+12:27:15.587 [Thread-64] DEBUG openstacklib.Abstrato - [getID - getProjectID] project p-spock exists with id 2ab3d695d1c44bdabdf0912d7935c250

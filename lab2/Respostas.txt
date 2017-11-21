@@ -1,0 +1,35 @@
+3.1.1) 	a) PAPI_L1_DCM: L1 data cache misses.
+
+    	b)
+
+		c)	1) 32 KB
+			2) 64 KB
+			3) 
+
+3.1.2) 	a) Alterar linha 49 para "if (PAPI_add_event(EventSet, PAPI_L2_DCM) != PAPI_OK)"
+
+		b)
+
+		c)
+
+3.2.1)	a) 2 MB;
+
+		b)
+
+		c)
+
+3.2.2)	a)
+
+		b)
+
+		c)
+
+3.2.3)	a)
+
+		b)
+
+		c)
+
+        d)
+
+        e)

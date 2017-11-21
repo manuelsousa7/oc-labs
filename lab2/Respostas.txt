@@ -11,7 +11,10 @@
 
 		b) *Plot no repo
 
-		c) 
+		c) 	1) 256KB, porque a partir de um array com tamanho de 256KB, começa a haver uma grande quantidade de misses na cache.
+			2) 64 B, porque a partir deste tamanho de bloco, a quantidade de misses começa a estagnar.
+			3) 32 vias de associatividade. O primeiro tamanho do array que não cabe na cache a dividir pelo seu stride em que 
+				a average miss-rate começa a ser 0, dá 32, que é o número de vias de associatividade.
 
 3.2.1)	a) 2 MB;
 
@@ -56,4 +59,5 @@
         e)	D(hit-rate) = 0.96011 - 0.984384 = -0.024274
 			Speedup = 0.751050 / 0.738806 = 1.01657
 
-			
+
+3.2.4)	Os resultados de tamanho de cache apresentados pelo comando são iguais aos calculados nas alíneas anteriores

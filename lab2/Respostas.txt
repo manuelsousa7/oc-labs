@@ -13,7 +13,7 @@
 
 		c) 	1) 256KB, porque a partir de um array com tamanho de 256KB, começa a haver uma grande quantidade de misses na cache.
 			2) 64 B, porque a partir deste tamanho de bloco, a quantidade de misses começa a estagnar.
-			3) 8 vias de associatividade.
+			3) 8 vias de associatividade, por observação ao gráfico.
 
 3.2.1)	a) 2 MB;
 

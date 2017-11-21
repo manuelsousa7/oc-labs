@@ -1,28 +1,40 @@
 3.1.1) 	a) PAPI_L1_DCM: L1 data cache misses.
 
-    	b)
+    	b) *Plot no repo
 
-		c)	1) 32 KB
-			2) 64 KB
-			3) 
+		c)	1) 32 KB, porque a partir de um array com tamanho de 64KB, começa a haver uma grande quantidade de misses na cache.
+			2) 64 B, porque a partir deste tamanho de bloco, a quantidade de misses começa a estagnar.
+			3) 8 vias de associatividade. O primeiro tamanho do array que não cabe na cache a dividir pelo seu stride em que 
+				a average miss-rate começa a ser 0, dá 8, que é o número de vias de associatividade.
 
-3.1.2) 	a) Alterar linha 49 para "if (PAPI_add_event(EventSet, PAPI_L2_DCM) != PAPI_OK)"
+3.1.2) 	a) Alterar linha 49 de "if (PAPI_add_event(EventSet, PAPI_L1_DCM) != PAPI_OK)" para "if (PAPI_add_event(EventSet, PAPI_L2_DCM) != PAPI_OK)"
 
-		b)
+		b) *Plot no repo
 
-		c)
+		c) 
 
 3.2.1)	a) 2 MB;
 
-		b)
+		b)	1076.646389
+			2148.537885
+			1.048616
+			1.511896
 
-		c)
+		c)	0.498893
 
-3.2.2)	a)
+3.2.2)	a)	33.567978
+			2148.533585
+			1.048616
+			0.530229
 
-		b)
+		b)	0.984376
 
-		c)
+		c)	34.639570
+			2149.583928
+			2.097192
+			0.483814
+
+		d)
 
 3.2.3)	a)
 

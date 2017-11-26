@@ -38,21 +38,24 @@ A:      .word    0, 1, 3, 0, 7
         daddi    $3, $0, 0      ; $3 = 0 ;; y
         daddi    $4, $0, 3      ; $4 = 3 ;; z
         daddi    $5, $0, 1      ; $5 = 1 ;; i	
-        daddi    $6, $0, 10     ; $6 = N ;; N = 10
+        daddi    $6, $0, 10      ; $6 = N ;; N = 10
         daddi    $12, $0, 1     ; $12 = 1 ;; fact = 1
 
-loop:   
         lw       $16, 0($1)     ; $16 = A[i-1]
+loop:   
         dmul     $12, $12, $5   ; $12 = fact *i
+
         dadd     $7, $4, $3     ; $7 = perrin = z + y
         daddi    $3, $2, 0      ; $3 = y = x
         daddi    $2, $7, 0      ; $2 = x = perrin
         daddi    $4, $3, 0      ; $4 = z = y
-        dadd     $12, $12, $16  ; $12 = fact *i + A[i-1]
-        daddi    $5, $5, 1      ; i++
         
-        ;daddi    $1, $1, 8      ; pA++
+        dadd     $12, $12, $16  ; $12 = fact *i + A[i-1]
+
+        daddi    $5, $5, 1      ; i++
+        daddi    $1, $1, 8      ; pA++
         bne      $6, $5, loop   ; Exit loop if i == N
+        lw       $16, 0($1)     ; $16 = A[i-1]
 	
         sw       $12, fact($0)     ; Store factorial result
         sw       $7, perrin($0)     ; Store perrin result

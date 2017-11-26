@@ -1,0 +1,1 @@
+2.1)    e) Cycles: 21;  Instructions: 10;   CPI; 2.1

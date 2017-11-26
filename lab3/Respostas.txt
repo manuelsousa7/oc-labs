@@ -1,1 +1,53 @@
-2.1)    e) Cycles: 21;  Instructions: 10;   CPI; 2.1
+2.1)    e) *Excel
+
+        f)  Cycles: 21;  Instructions: 10;   CPI: 2.1
+        
+            Data stalls: 10
+            Structural stalls: 0
+            Branch taken stalls: 1
+
+        g) Branch Always Not Taken, porque o programa assume que não vai ter que entrar no branch, mas assim que
+            entra, interrompe as instruções que foram feitas depois do branch.
+
+2.2)    b) *Excel
+
+        f)  Cycles: 17;  Instructions: 10;   CPI: 1.7
+        
+            Data stalls: 5
+            Structural stalls: 1
+            Branch taken stalls: 1
+
+        g) Speedup = 21/17 = 1.235
+
+2.3)    b) prog2.s
+
+        c)  Cycles: 13;  Instructions: 10;   CPI: 1.3
+        
+            Data stalls: 1
+            Structural stalls: 1
+            Branch taken stalls: 1
+
+        d)  Speedup = 21/13 = 1.615
+
+2.4)    b) prog2.s
+
+        c)  Cycles: 12;  Instructions: 10;   CPI: 1.3
+        
+            Data stalls: 1
+            Structural stalls: 1
+            Branch taken stalls: 0
+
+        d)  Speedup = 21/13 = 1.615
+
+2.5)    b) prog2.s
+
+        c)  Cycles: 13;  Instructions: 10;   CPI: 1.3
+        
+            Data stalls: 1
+            Structural stalls: 1
+            Branch taken stalls: 1
+
+        d)  Speedup = 21/13 = 1.615
+
+
+

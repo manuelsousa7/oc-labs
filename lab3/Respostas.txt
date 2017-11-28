@@ -1,59 +1,59 @@
 2.1)    e) *Excel lab3 2.1
 
-        f)  Cycles: 21;  Instructions: 10;   CPI: 2.1
+        f)  Cycles: 202;  Instructions: 100;   CPI: 2.02
         
-            Data stalls: 10
+            Data stalls: 90
             Structural stalls: 0
-            Branch taken stalls: 1
+            Branch taken stalls: 8
 
         g) Branch Always Not Taken, porque o programa assume que não vai ter que entrar no branch, mas assim que
             entra, interrompe as instruções que foram feitas depois do branch.
 
 2.2)    b) *Excel lab3 2.2
 
-        f)  Cycles: 17;  Instructions: 10;   CPI: 1.7
+        f)  Cycles: 166;  Instructions: 100;   CPI: 1.66
         
-            Data stalls: 5
-            Structural stalls: 1
-            Branch taken stalls: 1
+            Data stalls: 45
+            Structural stalls: 9
+            Branch taken stalls: 8
 
-        g) Speedup = 21/17 = 1.235
+        g) Speedup = 202/166 = 1.22
 
 2.3)    a) prog2.s
 
         b) *Excel lab3 2.3
 
-        c)  Cycles: 13;  Instructions: 10;   CPI: 1.3
+        c)  Cycles: 130;  Instructions: 100;   CPI: 1.3
         
-            Data stalls: 1
-            Structural stalls: 1
-            Branch taken stalls: 1
+            Data stalls: 9
+            Structural stalls: 9
+            Branch taken stalls: 8
 
-        d)  Speedup = 21/13 = 1.615
+        d)  Speedup = 202/130 = 1.55
 
 2.4)    a) prog3.s
 
         b) *Excel lab3 2.4
 
-        c)  Cycles: ;  Instructions: ;   CPI: 
-        
-            Data stalls: 
-            Structural stalls: 
-            Branch taken stalls: 
+        c)  Cycles: 103;  Instructions: 88;   CPI: 1.17
 
-        d)  Speedup = 
+            Data stalls: 0
+            Structural stalls: 9
+            Branch taken stalls: 2
+
+        d)  Speedup = 202/103 = 1.96
 
 2.5)    a) prog4.s
 
         c) *Excel lab3 2.5
 
-        d)  Cycles: 12;  Instructions: 10;   CPI: 1.2
+        d)  Cycles: 123;  Instructions: 101;   CPI: 1.218
         
-            Data stalls: 1
-            Structural stalls: 1
+            Data stalls: 9
+            Structural stalls: 9
             Branch taken stalls: 0
 
-        e)  Speedup = 21/12 = 1.75
+        e)  Speedup = 202/123 = 1.64
 
 
 

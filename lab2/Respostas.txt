@@ -42,6 +42,7 @@
 
 		d) 	D(hit-rate) = 0.984384 - 0.499138 = 0.485246
 			Speedup = 1.511896 / 0.75105 = 2.01304
+			Speedup(Clock) = 1745.747775 / 2472.790082 = 0.705983
 
 3.2.3)	a)	32 elementos
 
@@ -54,9 +55,11 @@
 
         d)	D(hit-rate) = 0.96011 - 0.499138 = 0.460976
 			Speedup = 1.511896 / 0.738806 = 2.0464
+			Speedup(Clock) = 1745.747775 / 2432.474581 = 0.717684
 
         e)	D(hit-rate) = 0.96011 - 0.984384 = -0.024274
 			Speedup = 0.751050 / 0.738806 = 1.01657
+			Speedup(Clock) = 2472.790082 / 2432.474581 = 1.01657
 
 
 3.2.4)	Os resultados de tamanho de cache apresentados pelo comando são iguais aos calculados nas alíneas anteriores
